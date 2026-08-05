@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: להחליף לדומיין הסופי לאחר הפריסה
+Sitemap: https://shopxisrael.github.io/business/sitemap.xml
